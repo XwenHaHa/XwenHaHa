@@ -11,3 +11,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XwenHaHa&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=radical")
 
+#### 一年后看有没有完成！
+- [ ] 持续完善组件库和博客
+- [ ] 学习React相关进阶内容
+- [ ] 阅读框架相关源码
+- [ ] 学习Node和Koa入门全栈
+
